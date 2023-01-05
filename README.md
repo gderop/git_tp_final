@@ -37,9 +37,9 @@ Dans ce second exercice, vous allez modifier les lignes qui suivent dans le READ
 > Ce sont ces informations qui me permettront de vous noter, si vous ne vous présentez pas ici, je ne pourrais pas vous noter :)
 
 Noms des étudiants : 
-de Rop Guilhem
-Abdelmalki Youssef
-de Rop Guilhem
+* de Rop Guilhem
+* Abdelmalki Youssef
+* Tamazirt Yasmine
 
 Date du jour : 05/01/2023
 
